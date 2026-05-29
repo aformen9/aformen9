@@ -2,9 +2,10 @@
 
 Data Scientist Jr. · UCA Rosario · Intern @ ArcelorMittal
 
-Data Science student at UCA Rosario (Argentina), building toward a career in **ML Engineering & MLOps**.
+Data Science student at UCA Rosario (Argentina), building toward a career in ML Engineering & MLOps.
 Working on ML predictive models, full-stack data apps, and automation pipelines.
 Based in Rosario 🇦🇷, with Madrid 🇪🇸 on the horizon.
+
 ---
 
 ## 🧭 What I'm focused on
