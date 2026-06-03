@@ -42,7 +42,7 @@ Based in Rosario 🇦🇷, with Madrid 🇪🇸 on the horizon.
 
 ## 🚀 Projects
 
-> A selection of my most relevant work. Full repo list on my [[GitHub profile]([https://github.com/aformen9?tab=repositories]](https://github.com/aformen9?tab=repositories)).
+> A selection of my most relevant work. Full repo list on my [GitHub profile](https://github.com/aformen9?tab=repositories)
 
 ### 🌲 [PatagonIA](https://github.com/aformen9/PatagonIA) *(in progress)*
 **Wildfire Risk Prediction in Argentine Patagonia using ML**
