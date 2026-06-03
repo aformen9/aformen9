@@ -1,4 +1,4 @@
-# Hi, I'm Agustín Formenti 👋
+# Hi, I'm Agu Formenti 👋
 
 Data Scientist Jr. · UCA Rosario · Intern @ ArcelorMittal
 
