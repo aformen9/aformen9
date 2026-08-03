@@ -44,7 +44,7 @@ Based in Rosario 🇦🇷, with Madrid 🇪🇸 on the horizon.
 
 > A selection of my most relevant work. Full repo list on my [GitHub profile](https://github.com/aformen9?tab=repositories)
 
-### 🌲 [PatagonIA](https://github.com/aformen9/PatagonIA) *(in progress)*
+### 🌲 [PatagonIA](https://github.com/aformen9/PatagonIA)
 **Wildfire Risk Prediction in Argentine Patagonia using ML**
 Web scraping → feature engineering → classification models. Python-based, end-to-end pipeline.
 `Python` `scikit-learn` `Web Scraping` `ML`
@@ -53,7 +53,7 @@ Web scraping → feature engineering → classification models. Python-based, en
 
 ### ⚽ [GlorIA](https://github.com/aformen9/GlorIA) *(in progress)*
 **Football predictor optimized for Expected Value (EV)**
-Monte Carlo simulations + Stacking ensemble (XGBoost + Neural Network). Built for the 2026 World Cup, scalable to any tournament or league.
+Monte Carlo simulations + Stacking ensemble (XGBoost + Neural Network). Built for any tournament or league.
 `Python` `XGBoost` `PyTorch` `Monte Carlo`
 
 ---
