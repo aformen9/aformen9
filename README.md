@@ -2,7 +2,7 @@
 
 Data Scientist Jr. · UCA Rosario · Intern @ ArcelorMittal
 
-Data Science student at UCA Rosario (Argentina), building toward a career in ML Engineering & MLOps.
+Data Science student at UCA Rosario (Argentina), building toward a career in ML Engineering & MLOps. Long-term, exploring the intersection with AI/ML security.
 Working on ML predictive models, full-stack data apps, and automation pipelines.
 Based in Rosario 🇦🇷, with Madrid 🇪🇸 on the horizon.
 
@@ -13,6 +13,7 @@ Based in Rosario 🇦🇷, with Madrid 🇪🇸 on the horizon.
 - Deploying ML models end-to-end: from training to monitoring in production
 - MLOps tooling: Docker, FastAPI, GitHub Actions, MLflow, Prefect
 - Building real projects at the intersection of data, backend, and automation
+- Long-term interest: the security side of ML systems — model/pipeline security, not just building them
 
 ---
 
